@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+This project was built with Gemini API and React. You must use start:frontend and start:backend to run it.
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
